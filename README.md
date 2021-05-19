@@ -1,3 +1,4 @@
+```c
 int main(void)
 {
   - 👋 Hi, I’m @Maxime-glm
@@ -6,3 +7,4 @@ int main(void)
   - 📫 From France
   return 0;
 }
+```
