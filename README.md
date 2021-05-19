@@ -5,7 +5,7 @@ int main(void)
   char *location = France;
   char *school = EPITECH PARIS;
   
-  for (int age = 0; age != 19; age++);
+  for (int age = 0; age != 19; ++age);
   return 0;
 }
 ```
