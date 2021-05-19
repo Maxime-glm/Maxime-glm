@@ -1,10 +1,11 @@
 ```c
 int main(void)
 {
-  - 👋 Hi, I’m @Maxime-glm
-  - 👀 I love IT
-  - 🌍 Currently at EPITECH Paris
-  - 📫 From France
+  char *username = @Maxime-glm;
+  char *location = France;
+  char *school = EPITECH PARIS;
+  
+  for (int age = 0; age != 19; age++);
   return 0;
 }
 ```
