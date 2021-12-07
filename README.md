@@ -6,7 +6,7 @@ int main(void)
   char *school = "EPITECH_PARIS";
   char *passion = "IT";
   
-  for (int age = 0; age != 19; ++age);
+  for (int age = 0; age != 20; ++age);
   return 0;
 }
 ```
