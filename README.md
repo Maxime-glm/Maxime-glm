@@ -1,4 +1,6 @@
 ```c
+#include <iostream>
+
 int main(void)
 {
   std::string username(@Maxime-glm);
