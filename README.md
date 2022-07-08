@@ -16,8 +16,7 @@
 
 ---
 
-### About Me :
-I am a Developer from France.
+I am a developer from France.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
