@@ -26,9 +26,6 @@ I am a developer from France.
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>
 </div>
-<div>
-  C / C++    Linux    Haskell    Elixir    Docker
-</div>
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxime-glm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
